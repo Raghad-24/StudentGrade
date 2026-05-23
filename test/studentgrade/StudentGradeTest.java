@@ -3,7 +3,7 @@ package studentgrade;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-/* JUnit 3.8.1 */
+
 public class StudentGradeTest  {
     
    @Test
